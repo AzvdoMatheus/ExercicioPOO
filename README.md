@@ -2,6 +2,7 @@
 Atividade realizada na cadeira de Programacao Orientada a Objetos, na linguagem Java.
 
 Enunciado:
+
 Deseja-se armazenar dados sobre prédios residenciais e seus moradores. Cada prédio deverá ter nome,
 endereço e número de apartamentos (ex.: “Solarium”, “Av. Ipiranga, 1000”, 26 apartamentos). Cada
 apartamento deverá ter um número identificador, o nome do proprietário, o total de moradores adultos e o
